@@ -1,5 +1,5 @@
 Package: ssatools
-Title: Tools to help running a statistics society
+Title: Tools to help run a statistics society
 Version: 0.0.0.9000
 Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
 Description: This package provides a number of helpful tools that make it
