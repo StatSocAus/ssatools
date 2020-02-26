@@ -6,6 +6,6 @@ Description: This package provides a number of helpful tools that make it
     easier to carry out tasks and duties for the Statistical Society of
     Australia (SSA).  For example, managing and analysing membership lists.
 Depends: R (>= 3.4.4)
-License: What license is it under?
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
